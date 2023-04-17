@@ -1,0 +1,9 @@
+name: nyc-311-dw
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - python
+  - ipykernel
+  - google-cloud-bigquery
