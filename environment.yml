@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - google-cloud-bigquery
   - pandas
   - python
-  - ipykernel
-  - google-cloud-bigquery
+prefix: /opt/miniconda3/envs/nyc-311-dw
