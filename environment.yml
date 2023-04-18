@@ -6,4 +6,3 @@ dependencies:
   - google-cloud-bigquery
   - pandas
   - python
-prefix: /opt/miniconda3/envs/nyc-311-dw
