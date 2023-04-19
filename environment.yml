@@ -6,3 +6,5 @@ dependencies:
   - google-cloud-bigquery
   - pandas
   - python
+  - ipykernel
+prefix: /home/jakeli/miniconda3/envs/nyc-311-dw
