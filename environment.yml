@@ -7,4 +7,7 @@ dependencies:
   - pandas
   - python
   - ipykernel
+  - pip
+  - pip:
+    - sodapy
 prefix: /home/jakeli/miniconda3/envs/nyc-311-dw
