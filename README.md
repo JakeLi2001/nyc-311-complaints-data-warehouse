@@ -17,7 +17,7 @@
 
 ## :dart: Results
 
-See report.
+See [report](Final%20Project%20Report.pdf).
 
 ## :hammer_and_wrench: Tech Stack
 
