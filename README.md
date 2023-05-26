@@ -25,4 +25,4 @@ See [report](Final%20Project%20Report.pdf).
 
 **Libraries:** Pandas, sodapy, google.cloud, logging, datetime
 
-**Tool:** Google BigQuery, LucidChart, Jupter Lab
+**Tool:** Google BigQuery, Tableau, LucidChart, Jupter Lab
